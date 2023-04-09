@@ -74,3 +74,4 @@ offense.""
 
 Date: 10/22/2022
 
+# DesignPatterns
