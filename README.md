@@ -1,6 +1,4 @@
-# cs542-fall-22-assign2
-## Name: SHRUTI IYENGAR [B00974747]
-(Number of slack days used in this assignment: 0)
+## Student Record System
 
 -----------------------------------------------------------------------
 ## COMMANDS TO RUN:
